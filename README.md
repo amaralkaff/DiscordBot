@@ -1,8 +1,8 @@
-# [AmangLy Bot]
+# [DiscordBot]
 
 
 
-[Amangly Bot] is a Discord bot built with Node.js and Discord.js library. It features music playback capabilities, utilizing YouTube as a source. This bot is designed to enhance the experience of Discord server members by providing music and interactive command functionalities.
+[DiscordBot] is a Discord bot built with Node.js and Discord.js library. It features music playback capabilities, utilizing YouTube as a source. This bot is designed to enhance the experience of Discord server members by providing music and interactive command functionalities.
 
 ## Features
 
